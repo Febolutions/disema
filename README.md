@@ -1,4 +1,4 @@
-# disema
+# Disema System
 Sistema web para empresa de diseño "Disema", con operaciones básicas CRUD y uso de html, JQ, JS, php y css
 Para su correcto uso, deberá instalar el sript de la base de datos, mediante phpMyAdmin con MariaDB.
 Las carpetas vienen separadas por vistas, controladores, etc. para su mejor entendimiento.
