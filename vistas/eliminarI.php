@@ -46,7 +46,7 @@ include("C:\wamp64\www\disema\controller\session.php");
         </div>
     </nav>
     <div id="divPC" class="center">
-        <h2>Descontar material</h2>
+        <h2>Eliminar material</h2>
         <form name="first" action="" method="POST" onSubmit="return validarForm(this)">
             <label>ID:</label>
             <input name="id_m" type="number" class="inputTextSizeSmall roundedElements">
